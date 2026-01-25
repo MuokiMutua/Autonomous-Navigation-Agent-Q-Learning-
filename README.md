@@ -6,6 +6,9 @@
 ## Introduction
 Unlike traditional AI that learns from static datasets, this project uses **Reinforcement Learning (RL)** to train an agent through **direct interaction** with its environment. Using the **Q-Learning algorithm**, a neon-themed robot must navigate a **5 × 5 GridWorld** to reach a goal while avoiding **lethal traps**.
 
+## Autonomous Grid Navigator live Demo:
+https://huggingface.co/spaces/MRM5/Autonomous_Agentic_AI 
+
 ---
 
 ## Objectives
